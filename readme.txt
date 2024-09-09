@@ -1,0 +1,1 @@
+ Tabla que muestra colores de fondo y el nombre del color.
